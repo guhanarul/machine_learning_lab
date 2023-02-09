@@ -1,0 +1,6 @@
+index,size,color,shape,out
+0,big,red,circle,no
+1,small,red,triangle,no
+2,small,red,circle,yes
+3,big,blue,circle,no
+4,small,blue,circle,yes
