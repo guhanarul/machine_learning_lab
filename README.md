@@ -1,2 +1,2 @@
-# machine_learning_lab
-Complete lab Tasks!
+#ML LAB PROGRAMS
+Machine learning algorithms from scratch!
